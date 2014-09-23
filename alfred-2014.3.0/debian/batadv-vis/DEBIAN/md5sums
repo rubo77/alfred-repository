@@ -1,0 +1,5 @@
+e565301f5af6609bb5e38209336768c6  usr/sbin/batadv-vis
+9d8dc33c142c2f15d0bbc226374abfbd  usr/share/doc/batadv-vis/changelog.Debian.gz
+1698c7a20ab1b223ce5d2cdf8bb2efb1  usr/share/doc/batadv-vis/changelog.gz
+f2e92dc24dbd83010c301d84670b5abe  usr/share/doc/batadv-vis/copyright
+8aaf9b3065e1ff891ccfc9dadcc6190e  usr/share/man/man8/batadv-vis.8.gz

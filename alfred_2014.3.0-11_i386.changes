@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 14 Sep 2014 14:56:58 +0200
+Source: alfred
+Binary: alfred batadv-vis
+Architecture: i386
+Version: 2014.3.0-11
+Distribution: wheezy
+Urgency: low
+Maintainer: Nils Schneider (nils@nilsschneider.net)
+Changed-By: Nils Schneider <nils@nilsschneider.net>
+Description: 
+ alfred     - A.L.F.R.E.D - Almighty Lightweight Fact Remote Exchange Daemon
+ batadv-vis - batadv-vis - visualize your batman-adv mesh network
+Changes: 
+ alfred (2014.3.0-11) wheezy; urgency=low
+ .
+   * update maintainer
+Checksums-Sha1: 
+ feb9650119fa7d8bdd6be17efc10f18d98e13740 31296 alfred_2014.3.0-11_i386.deb
+ d453823081fb799be51c0eab8aa5d12b302599f9 13586 batadv-vis_2014.3.0-11_i386.deb
+Checksums-Sha256: 
+ 5fda788cb191f1a4455e05d5753509d72b409fb138c356c3e2ae9977b74663aa 31296 alfred_2014.3.0-11_i386.deb
+ 5471a08eb3970638af8cc76cc5cb92b640e593eb3e0233588d2ca8d71420d7d6 13586 batadv-vis_2014.3.0-11_i386.deb
+Files: 
+ 575ad6eba594d17a2fd32b0c0cfca0d0 31296 net extra alfred_2014.3.0-11_i386.deb
+ 789c5e596835621259f336f28b1f4eaf 13586 net extra batadv-vis_2014.3.0-11_i386.deb
