@@ -21,13 +21,3 @@ Install
 	sudo dpkg -i alfred_2014.3.0-11_i386.deb
 	wget https://github.com/ffnord/alfred-repository/blob/master/batadv-vis_2014.3.0-11_i386.deb?raw=true
 	sudo dpkg -i batadv-vis_2014.3.0-11_i386.deb 
-	
-Use original repository as PPA
-===
-
-    wget http://debian.draic.info/README.txt -O /etc/apt/sources.list.d/90-debian.draic.info.list
-
-this will create 
-
-	deb [arch=amd64] http://debian.draic.info/ wheezy main
-	deb-src http://debian.draic.info/ wheezy main
